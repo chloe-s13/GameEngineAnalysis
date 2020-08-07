@@ -11,7 +11,7 @@ I would upload them here but they're too big. The zipped file of the Unreal Engi
 version of the project is 2.55 GB all by itself :)
 
 Unity Version:
-https://mega.nz/file/GYkDnLDB
+https://mega.nz/file/GYkDnLDB#zexYfVutg1m-RWStmEQjsN2aH0Rp767Frd4zCFVvCOo
 
 Unreal Engine 4 Version:
-https://mega.nz/file/3B9TTRQJ
+https://mega.nz/file/3B9TTRQJ#c-GpdAYbgUr3eUqRDcweRHyANYmspePezZD3u5E4ywI
